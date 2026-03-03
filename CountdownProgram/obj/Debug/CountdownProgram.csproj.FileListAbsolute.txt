@@ -1,0 +1,7 @@
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\bin\Debug\CountdownProgram.exe.config
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\bin\Debug\CountdownProgram.exe
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\bin\Debug\CountdownProgram.pdb
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\obj\Debug\CountdownProgram.csproj.AssemblyReference.cache
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\obj\Debug\CountdownProgram.csproj.CoreCompileInputs.cache
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\obj\Debug\CountdownProgram.exe
+C:\Users\Junnie\source\repos\CountdownProgram\CountdownProgram\obj\Debug\CountdownProgram.pdb
